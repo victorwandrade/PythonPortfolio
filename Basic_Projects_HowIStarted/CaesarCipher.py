@@ -27,8 +27,8 @@ def caesar(start_text, shift_amount, cypher_direction):
         print (f"Here is the {direction}d message: {end_text}")
 
 #Import and print the logo from art.py when the program starts.
-import art
-print (art.logo)
+import Caesar_Cypher_art
+print (Caesar_Cypher_art.logo)
 
 while keep_going == "yes":
     direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
