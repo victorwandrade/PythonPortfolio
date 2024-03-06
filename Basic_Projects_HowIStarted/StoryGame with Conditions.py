@@ -1,4 +1,3 @@
-#Day 3
 #IF; ELIF; ELSE
 
 print('''
