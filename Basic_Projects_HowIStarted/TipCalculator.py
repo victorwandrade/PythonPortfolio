@@ -1,4 +1,3 @@
-#Day 2
 #Tip Calculator
 print ("Welcome to the tip calculator.")
 
