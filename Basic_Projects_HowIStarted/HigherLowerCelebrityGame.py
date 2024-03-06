@@ -300,9 +300,6 @@ data = [
         'country': 'United States'
     }
 ]
-
-#get the module random to get something out of the dictionary
-
 import random
 import higherlower_art
 
