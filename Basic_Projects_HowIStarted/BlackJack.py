@@ -1,5 +1,3 @@
-#Day 11 - Blackjack Capstone Project
-
 ############### Our Blackjack House Rules #####################
 
 ## The deck is unlimited in size. 
