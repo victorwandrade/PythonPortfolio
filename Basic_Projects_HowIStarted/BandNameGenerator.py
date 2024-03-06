@@ -1,5 +1,3 @@
-#Day 1
-
 #Band Name Generator
 print ("Let's come up with a potential band name!")
 
